@@ -1,0 +1,11 @@
+.column-header {
+    border-bottom: none; /* Remove horizontal line if there's any */
+    background-color: transparent; /* Make header background transparent */
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.column-title {
+    border: none; /* Removes borders around title */
+    padding: 0;
+}
